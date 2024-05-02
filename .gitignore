@@ -3,3 +3,5 @@ assets/images/
 project_env
 
 tests/
+
+__pycache__
